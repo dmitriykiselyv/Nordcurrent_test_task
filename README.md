@@ -1,4 +1,4 @@
-# Test task 
+# Nordcurrent test task
 Для виконання завдання використовуйте версію
 Unity - 2022.3.8f1
 
